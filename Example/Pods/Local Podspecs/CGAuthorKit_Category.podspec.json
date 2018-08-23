@@ -1,0 +1,30 @@
+{
+  "name": "CGAuthorKit_Category",
+  "version": "1",
+  "summary": "A short description of CGAuthorKit_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pengwenxin/CGAuthorKit_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pengwenxin": "980120476@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/pengwenxin/CGAuthorKit_Category.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CGAuthorKit_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "CGAPIsKit": [
+
+    ]
+  }
+}

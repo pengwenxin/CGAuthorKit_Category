@@ -1,0 +1,6 @@
+framework module Pods_CGAuthorKit_Category_Example {
+  umbrella header "Pods-CGAuthorKit_Category_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

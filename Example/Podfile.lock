@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - CGAPIsKit (3):
+    - AFNetworking
+  - CGAuthorKit_Category (1):
+    - CGAPIsKit
+    - CTMediator
+  - CTMediator (18)
+
+DEPENDENCIES:
+  - CGAuthorKit_Category (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - CTMediator
+  https://github.com/pengwenxin/CGSpecs.git:
+    - CGAPIsKit
+
+EXTERNAL SOURCES:
+  CGAuthorKit_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  CGAPIsKit: a690357adb6ac3d6367df883fc6118aa3ffb6b62
+  CGAuthorKit_Category: 8bf9244ce44e5a569a46a0e8c7eb5a814243bb8a
+  CTMediator: 420e9d90f9f1fd740caf2238ed7ed64dc621c5b7
+
+PODFILE CHECKSUM: b2735426efbe86042793b2fa5e36cb69b5300c48
+
+COCOAPODS: 1.5.3
