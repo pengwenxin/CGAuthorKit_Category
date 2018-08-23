@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CGAuthorKit_Category'
-  s.version          = '1'
+  s.version          = '2'
   s.summary          = 'A short description of CGAuthorKit_Category.'
 
 # This description is used to generate tags and improve search results.
