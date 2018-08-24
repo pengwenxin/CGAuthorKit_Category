@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <CTMediator/CTMediator.h>
-#import <CGAPIsKit/APIRequest.h>
+#import <TTAPIsKit/APIRequest.h>
 
 @interface CTMediator (Author)
 
